@@ -5,7 +5,7 @@ module attendance_system::contracts;
 
 // For Move coding conventions, see
 // https://docs.iota.org/developer/iota-101/move-overview/conventions
-
+/**/
 module attendance_system::proof_of_attendance {
     use std::string;
     use iota::clock::{Self, Clock};
