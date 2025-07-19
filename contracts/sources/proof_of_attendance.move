@@ -1,6 +1,6 @@
 /*
-/// Module: contracts
-module contracts::contracts;
+/// Module: attendance_system
+module attendance_system::contracts;
 */
 
 // For Move coding conventions, see
