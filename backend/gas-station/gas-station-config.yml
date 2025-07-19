@@ -1,0 +1,8 @@
+# gas-station-config.yml for sponsored transactions
+sponsorship_rules:
+  - name: "attendance_minting"
+    package_filter: 
+      - "attendance_system::proof_of_attendance"
+    max_gas_per_address: 100000
+    time_window: "24h"
+    quota_reset: "daily"
